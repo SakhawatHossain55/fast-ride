@@ -1,0 +1,8 @@
+.background{
+    background-image: url('../../images/Bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}

@@ -1,0 +1,22 @@
+.google-button{
+    width: 450px;
+    height: 50px;
+
+}
+.signIn-form{
+    border: 1px solid gray;
+    border-radius: 7px;
+    width: 570px;
+    height: 470px;
+    margin-top: 170px;
+}
+.signIn-button{
+    background-color: #FF6E40;
+    color: #fff;
+}
+.link-style{
+    color: #FF6E40;
+}
+.link-style:hover{
+    color: #FF6E40;
+}
